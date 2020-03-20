@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
 
-### More Information
+### About me
 
-A place to include any other types of information that you'd like to include about yourself.
+A simple/adventurous/curious person; traveller; cat lover; classical music fans; lifelong leaner.
+
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[hoangvanhauit@gmail.com](mailto:hoangvanhauit@gmail.com)
