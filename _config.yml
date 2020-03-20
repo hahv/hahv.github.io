@@ -9,7 +9,7 @@ name: Hoang Van Ha (Hoàng Văn Hà)
 description: Been there, done that
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://www.dropbox.com/s/vfk7r9audqp5xf5/github_avatar.jpg
+avatar: https://www.dropbox.com/s/vfk7r9audqp5xf5/github_avatar.jpg?raw=1
 #
 # Flags below are optional
 #
@@ -20,9 +20,9 @@ footer-links:
   email: hoangvanhauit@gmail.com
   facebook:
   flickr:
-  github: https://github.com/hahv/
-  instagram:
-  linkedin: www.linkedin.com/in/ha-hv
+  github: hahv
+  instagram: itadakimatsuz
+  linkedin: ha-hv
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: 
