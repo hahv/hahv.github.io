@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-#### *A simple/adventurous/curious person; traveller; cat lover; classical music fans; lifelong leaner.*
+#### *A simple/adventurous/curious person; traveller; cat lover; classical music fan; lifelong learner.*
 
 
 ### Contact me
