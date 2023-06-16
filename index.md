@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am currently pursuing my Ph.D. degree in the Department of Software at Sejong University in Seoul, South Korea. I am fortunate to be under the guidance of [Prof.Jong-Weon Lee](https://sejong.elsevierpure.com/en/persons/jong-weon-lee) and [Prof. Chun-su Park](https://coe.skku.edu/eng_coe/intro/faculty_computer.do?mode=view&perId=LZStrFodgIgjArgHAVgFwGIE4CeBDOBmAFgTQDcBzAUQDkBJARQF5ag%20&). 
+I am currently pursuing my Ph.D. degree in the Department of Software at Sejong University in Seoul, South Korea. I am fortunate to be under the guidance of [Prof. Jong-Weon Lee](https://sejong.elsevierpure.com/en/persons/jong-weon-lee) and [Prof. Chun-su Park](https://coe.skku.edu/eng_coe/intro/faculty_computer.do?mode=view&perId=LZStrFodgIgjArgHAVgFwGIE4CeBDOBmAFgTQDcBzAUQDkBJARQF5ag%20&). 
 
 Prior to my doctoral studies, I obtained an engineering degree in Software from the University of Information Technology (UIT), VNU-HCM, in 2014. Following that, I pursued a Master's degree in Computer Science, advised by [Prof. Minh-Triet Tran](https://www.fit.hcmus.edu.vn/~tmtriet/), which I completed in 2018.
 
