@@ -5,7 +5,7 @@
          <div class="pub-row">
             <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
                <img src="assets/img/paper1.png" class="teaser img-fluid z-depth-1">
-               <abbr class="badge">CVPR</abbr>
+               <abbr class="badge">CIS</abbr>
             </div>
             <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
                <div class="title"><a href="https://ieeexplore.ieee.org/document/8288560">DeepSense-Inception: Gait Identification from Inertial Sensors with Inception-like Architecture and Recurrent Network</a></div>

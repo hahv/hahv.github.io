@@ -89,13 +89,12 @@
 
       <br>
 
-      {% if site.enable_footnote %}
-      <p><small>Last updated on {{site.lastupdated}}</small></p>
-      {% endif %}
-
+     
       </section>
       <footer>
-        
+        {% if site.enable_footnote %}
+        <p><small>Last updated on {{site.lastupdated}}</small></p>
+        {% endif %}
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
