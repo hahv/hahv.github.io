@@ -18,6 +18,6 @@ My academic pursuits primarily revolve around computer vision and deep learning,
 
 ## News
 
-- **[Jul. 2023]** Our paper about ... is accepted to ... 2023.
+- **[Jul. 2023]** Our paper tittled "Advances in Skeleton-Based Fall Detection in RGB Videos: from Handcrafted to Deep Learning Approaches " just got accepted to IEEE Access 2023.
 
 {% include_relative _includes/publications.md %}
