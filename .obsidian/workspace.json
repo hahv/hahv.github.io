@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7b6bde3eaa856902",
+        "id": "a7cca8ab9414f53e",
         "type": "tabs",
         "children": [
           {
-            "id": "ec61076f0ac6ab86",
+            "id": "2112171540ea95a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": " updated on",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "abdca95a1325fa02",
@@ -149,11 +148,12 @@
   },
   "active": "54bc94170814aefe",
   "lastOpenFiles": [
-    "_includes/publications.md",
-    "README.md",
-    "index.md",
-    "assets/files/curriculum_vitae.pdf",
     "_includes/services.md",
+    "_includes/publications.md",
+    "index.md",
+    "README.md",
+    "Last update.md",
+    "assets/files/curriculum_vitae.pdf",
     "README_de.md",
     "assets/img/skefall_survey.png"
   ]
