@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "af12a8c598bca369",
+        "id": "7b6bde3eaa856902",
         "type": "tabs",
         "children": [
           {
-            "id": "31a2553e8fcf64be",
+            "id": "ec61076f0ac6ab86",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "abdca95a1325fa02",
@@ -146,10 +147,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "31a2553e8fcf64be",
+  "active": "54bc94170814aefe",
   "lastOpenFiles": [
     "_includes/publications.md",
+    "README.md",
     "index.md",
-    "_includes/services.md"
+    "assets/files/curriculum_vitae.pdf",
+    "_includes/services.md",
+    "README_de.md",
+    "assets/img/skefall_survey.png"
   ]
 }
