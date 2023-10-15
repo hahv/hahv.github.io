@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_includes/publications.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_includes/publications.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_includes/publications.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_includes/publications.md"
+                "file": "index.md"
               }
             }
           }
@@ -146,13 +146,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2112171540ea95a3",
+  "active": "54bc94170814aefe",
   "lastOpenFiles": [
+    "assets/files/hoang2023advances.bib",
+    "_includes/publications.md",
+    "_includes/services.md",
+    "_includes/services_bk.md",
     "index.md",
     "assets/files/hoang2023advances.bib",
     "assets/files/hoang2017deepsense.bib",
-    "_includes/services.md",
-    "_includes/publications.md",
     "README.md",
     "Last update.md",
     "assets/files/curriculum_vitae.pdf",

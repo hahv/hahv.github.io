@@ -18,7 +18,6 @@ My academic pursuits primarily revolve around computer vision and deep learning,
 
 ## News
 
-- **[2023.10.15]** I conducted a peer review of an IEEE Access paper focused on the topics of Deep Learning and Fall Detection.
 - **[2023.08.16]** Our paper tittled "Advances in Skeleton-Based Fall Detection in RGB Videos: from Handcrafted to Deep Learning Approaches " just got accepted to IEEE Access 2023.
-{% include_relative _includes/services.md %}
+
 {% include_relative _includes/publications.md %}
