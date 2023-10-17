@@ -1,3 +1,17 @@
 {
-  "showUnsupportedFiles": true
+  "alwaysUpdateLinks": true,
+  "vimMode": false,
+  "pdfExportSettings": {
+    "includeName": false,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "promptDelete": true,
+  "defaultViewMode": "source",
+  "readableLineLength": true,
+  "attachmentFolderPath": "./0.attachment",
+  "showUnsupportedFiles": true,
+  "spellcheck": true
 }

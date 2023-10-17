@@ -1,3 +1,9 @@
 {
-  "accentColor": ""
+  "accentColor": "",
+  "cssTheme": "Things",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "obsidian"
+  ],
+  "baseFontSize": 17
 }

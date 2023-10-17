@@ -12,7 +12,7 @@ The latest version of my homepage is available here: [[link](https://github.com/
 <br>
 A template for Max Planck Institute for Informatics is available here: [[link](https://github.com/yaoyao-liu/minimal-light-theme-mpi-inf)]
 
-## Features
+## 1 Features
 
 - Simple and elegant personal homepage theme
 - Jekyll theme, automatically deployed by GitHub Pages
@@ -21,7 +21,7 @@ A template for Max Planck Institute for Informatics is available here: [[link](h
 - Supporting Markdown 
 - Supporting dark mode
 
-## Project Architecture
+## 2 Project Architecture
 
 ```
 .
@@ -45,7 +45,7 @@ A template for Max Planck Institute for Informatics is available here: [[link](h
 └── index.md                     #  the content of the index page, using Markdown
 ```
 
-## Getting Started
+## 3 Getting Started
 
 This template can be used in the following two ways: 
 - **Using with the GitHub Pages Service.** GitHub will provide you with a server to generate and host web pages.
@@ -54,16 +54,16 @@ This template can be used in the following two ways:
 The detailed instructions are available below.
 
 
-### Using with the GitHub Pages Service
+### 3.1 Using with the GitHub Pages Service
 
 There are two ways to use this template on GitHub:
 
-#### Fork this repository
+#### 3.1.1 Fork this repository
 - Fork this repository (or [use this repository as a template](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template)) and change the name to `your-username.github.io`.
 
 - Enable the GitHub pages for that repository following the steps [here](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site#creating-your-site).
 
-#### Using this repository as a remote theme
+#### 3.1.2 Using this repository as a remote theme
 To use this theme, add the following to your repository's `_config.yml`:
 
 ```yaml
@@ -74,7 +74,7 @@ Please note that adding the above line will directly apply all the default setti
 
 If you hope to edit any files (e.g., `index.md`), you still need to copy them to your repository.
 
-### Using Locally with Jekyll
+### 3.2 Using Locally with Jekyll
 
 First, install [Ruby](https://www.ruby-lang.org/en/) and [Jekyll](https://jekyllrb.com/). The install instructions can be found here: <https://jekyllrb.com/docs/installation/#guides>
 
@@ -93,9 +93,9 @@ bundle exec jekyll server
 View the live page using `localhost`:
 <http://localhost:4000>. You can get the HTML files in `_site` folder.
 
-## Customizing
+## 4 Customizing
 
-### Configuration variables
+### 4.1 Configuration variables
 
 The Minimal Light theme will respect the following variables, if set in your site's `_config.yml`:
 
@@ -130,29 +130,29 @@ favicon_dark: ./assets/img/favicon-dark.png
 # Please remove this if you don't use Google Analytics
 google_analytics: UA-111540567-4
   ```
-### Edit `index.md`
+### 4.2 Edit `index.md`
 
 Create `index.md` and add your personal information. It supports **Markdown** and **HTML** syntax.
 
-### Edit included files
+### 4.3 Edit included files
 
 There are two markdown files included in `index.md`. They are `_includes/publications.md` and `_includes/service.md`, respectively. These two files also support **Markdown** and **HTML** syntax. If you don't hope to include these two files, you may remove the following lines in `index.md`:
 https://github.com/yaoyao-liu/minimal-light/blob/b38070cd0b6bce45d8a885f3828549af8f82b7cb/index.md?plain=1#L21-L23
 
 
-### Stylesheet
+### 4.4 Stylesheet
 
 If you'd like to add your own custom styles, you may edit `_sass/minimal-light.scss`.
 
-### Layouts
+### 4.5 Layouts
 
 If you'd like to change the theme's HTML layout, you may edit `_layout/homepage.html`.
 
-## License
+## 5 License
 
 This work is licensed under a [Creative Commons Zero v1.0 Universal](https://github.com/yaoyao-liu/minimal-light/blob/master/LICENSE) License.
 
-## Acknowledgements
+## 6 Acknowledgements
 
 Our project uses the source code from the following repositories:
 
