@@ -17,6 +17,7 @@ My academic pursuits primarily revolve around computer vision and deep learning,
 - **Computer Vision:** object detection, anomaly detection, action recognition.
 
 ## News
+- **[2024.09.05]** I have completed the Coursera course [**Google AI Essentials**](https://www.coursera.org/learn/google-ai-essentials) by Google. You can view my certificate of completion [here](https://www.coursera.org/account/accomplishments/verify/8BWSLNPT9UPY).
 
 - **[2023.10.15]** I conducted a peer review of an IEEE Access paper focused on the topics of Deep Learning and Fall Detection.
 - **[2023.08.16]** Our paper tittled "Advances in Skeleton-Based Fall Detection in RGB Videos: from Handcrafted to Deep Learning Approaches " just got accepted to IEEE Access 2023.
