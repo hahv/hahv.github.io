@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-## About Me
+## 1 About Me
 
 I am currently pursuing my Ph.D. degree in the Department of Software at Sejong University in Seoul, South Korea. I am fortunate to be under the guidance of [Prof. Jong-Weon Lee](https://sejong.elsevierpure.com/en/persons/jong-weon-lee) and [Prof. Chun-su Park](https://coe.skku.edu/eng_coe/intro/faculty_computer.do?mode=view&perId=LZStrFodgIgjArgHAVgFwGIE4CeBDOBmAFgTQDcBzAUQDkBJARQF5ag%20&). 
 
@@ -12,11 +12,14 @@ In 2018, I had the opportunity to work as an internship student at the National 
 
 My academic pursuits primarily revolve around computer vision and deep learning, which are my research interests.
 
-## Research Interests
+## 2 Research Interests
 
 - **Computer Vision:** object detection, anomaly detection, action recognition.
 
-## News
+## 3 News
+
+- **[2024.11.06]** I have completed the Coursera course [**Google IT Automation with Python Professional Certificate**](https://www.coursera.org/professional-certificates/google-it-automation)) by Google. You can view my certificate of completion [here](https://coursera.org/share/d59fb5f568a03a4e5fd55630093c5e92)).
+  
 - **[2024.09.05]** I have completed the Coursera course [**Google AI Essentials**](https://www.coursera.org/learn/google-ai-essentials) by Google. You can view my certificate of completion [here](https://www.coursera.org/account/accomplishments/verify/8BWSLNPT9UPY).
 
 - **[2023.10.15]** I conducted a peer review of an IEEE Access paper focused on the topics of Deep Learning and Fall Detection.
